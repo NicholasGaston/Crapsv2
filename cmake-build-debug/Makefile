@@ -122,6 +122,33 @@ Crapsv2/fast:
 	$(MAKE) -f CMakeFiles\Crapsv2.dir\build.make CMakeFiles/Crapsv2.dir/build
 .PHONY : Crapsv2/fast
 
+Die.obj: Die.cpp.obj
+
+.PHONY : Die.obj
+
+# target to build an object file
+Die.cpp.obj:
+	$(MAKE) -f CMakeFiles\Crapsv2.dir\build.make CMakeFiles/Crapsv2.dir/Die.cpp.obj
+.PHONY : Die.cpp.obj
+
+Die.i: Die.cpp.i
+
+.PHONY : Die.i
+
+# target to preprocess a source file
+Die.cpp.i:
+	$(MAKE) -f CMakeFiles\Crapsv2.dir\build.make CMakeFiles/Crapsv2.dir/Die.cpp.i
+.PHONY : Die.cpp.i
+
+Die.s: Die.cpp.s
+
+.PHONY : Die.s
+
+# target to generate assembly for a file
+Die.cpp.s:
+	$(MAKE) -f CMakeFiles\Crapsv2.dir\build.make CMakeFiles/Crapsv2.dir/Die.cpp.s
+.PHONY : Die.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... Crapsv2
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Die.obj
+	@echo ... Die.i
+	@echo ... Die.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

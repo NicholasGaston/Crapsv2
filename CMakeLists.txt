@@ -3,4 +3,4 @@ project(Crapsv2)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Crapsv2 main.cpp)
+add_executable(Crapsv2 main.cpp Die.cpp Die.h)

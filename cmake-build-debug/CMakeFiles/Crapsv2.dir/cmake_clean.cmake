@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Crapsv2.dir/Die.cpp.obj"
   "CMakeFiles/Crapsv2.dir/main.cpp.obj"
   "Crapsv2.exe"
   "Crapsv2.exe.manifest"
