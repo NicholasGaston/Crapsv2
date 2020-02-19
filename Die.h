@@ -2,7 +2,7 @@
 // Created by marsb on 2/14/2020.
 //
 
-#include <iostream>;
+#include <iostream>
 
 #ifndef CRAPSV2_DIE_H
 using namespace std;

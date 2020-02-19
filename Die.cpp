@@ -3,9 +3,20 @@
 //
 
 #include "Die.h"
+#include <cmath>
+#include <ctime>
 
 
+Die :: Die(int startingNumberofSides, int startingincremnet, int firstStartingValue, string startingColor, string startingMaterial)
+{
+    numberOfSides = startingNumberofSides;
+    increment = startingincremnet;
+    startingValue = firstStartingValue;
+    color = startingColor;
+    material = startingMaterial;
+    srand(time(0));
 
+}
 int Die :: GetNumberOfSides() {
 
             return numberOfSides;
@@ -22,10 +33,10 @@ string Die :: GetMaterial() {
     return material;
 }
 int Die :: getValue() {
-
+    return value;
 }
 int Die :: getStartingValue() {
-
+    return startingValue;
 }
 bool Die:: IsSymbol() {
 
@@ -33,7 +44,9 @@ bool Die:: IsSymbol() {
 }
 int Die :: roll()
 {
-    return 2;
+
+
+    return rand() % numberOfSides + startingValue;
 }
 void Die :: SetColor(string newColor)
 {
