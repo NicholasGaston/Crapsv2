@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Programs/CLionProjects/Crapsv2/Die.cpp
+Die.h
+E:/Programs/CLionProjects/Crapsv2/Die.h
+cmath
+-
+ctime
+-
+
+E:/Programs/CLionProjects/Crapsv2/Die.h
+iostream
+-
+
+E:/Programs/CLionProjects/Crapsv2/cmake-build-debug/GameLogic.cpp
+GameLogic.h
+E:/Programs/CLionProjects/Crapsv2/cmake-build-debug/GameLogic.h
+
+E:/Programs/CLionProjects/Crapsv2/cmake-build-debug/GameLogic.h
+
+E:/Programs/CLionProjects/Crapsv2/main.cpp
+iostream
+-
+Die.h
+E:/Programs/CLionProjects/Crapsv2/Die.h
+
