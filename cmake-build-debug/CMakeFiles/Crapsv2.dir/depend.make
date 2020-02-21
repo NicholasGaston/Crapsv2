@@ -4,9 +4,11 @@
 CMakeFiles/Crapsv2.dir/Die.cpp.obj: ../Die.cpp
 CMakeFiles/Crapsv2.dir/Die.cpp.obj: ../Die.h
 
-CMakeFiles/Crapsv2.dir/GameLogic.cpp.obj: GameLogic.cpp
-CMakeFiles/Crapsv2.dir/GameLogic.cpp.obj: GameLogic.h
+CMakeFiles/Crapsv2.dir/GameLogic.cpp.obj: ../Die.h
+CMakeFiles/Crapsv2.dir/GameLogic.cpp.obj: ../GameLogic.cpp
+CMakeFiles/Crapsv2.dir/GameLogic.cpp.obj: ../GameLogic.h
 
 CMakeFiles/Crapsv2.dir/main.cpp.obj: ../Die.h
+CMakeFiles/Crapsv2.dir/main.cpp.obj: ../GameLogic.h
 CMakeFiles/Crapsv2.dir/main.cpp.obj: ../main.cpp
 

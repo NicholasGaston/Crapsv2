@@ -12,7 +12,7 @@ class Die{
 private:
     int numberOfSides;
     int increment;
-    int value;
+    int value = 0;
     int startingValue;
     string color;
     bool isSymbol;

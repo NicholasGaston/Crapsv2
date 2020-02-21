@@ -44,9 +44,10 @@ bool Die:: IsSymbol() {
 }
 int Die :: roll()
 {
+    value = ((rand() % numberOfSides + startingValue) + (rand() % numberOfSides + startingValue));
 
-
-    return rand() % numberOfSides + startingValue;
+    cout << value << endl;
+    return  value;
 }
 void Die :: SetColor(string newColor)
 {
