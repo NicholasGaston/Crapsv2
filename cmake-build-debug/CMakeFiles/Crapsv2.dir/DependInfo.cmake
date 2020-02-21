@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "E:/Programs/CLionProjects/Crapsv2/Die.cpp" "E:/Programs/CLionProjects/Crapsv2/cmake-build-debug/CMakeFiles/Crapsv2.dir/Die.cpp.obj"
-  "E:/Programs/CLionProjects/Crapsv2/cmake-build-debug/GameLogic.cpp" "E:/Programs/CLionProjects/Crapsv2/cmake-build-debug/CMakeFiles/Crapsv2.dir/GameLogic.cpp.obj"
+  "E:/Programs/CLionProjects/Crapsv2/GameLogic.cpp" "E:/Programs/CLionProjects/Crapsv2/cmake-build-debug/CMakeFiles/Crapsv2.dir/GameLogic.cpp.obj"
   "E:/Programs/CLionProjects/Crapsv2/main.cpp" "E:/Programs/CLionProjects/Crapsv2/cmake-build-debug/CMakeFiles/Crapsv2.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

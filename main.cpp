@@ -1,4 +1,5 @@
 #include <iostream>
+#include "GameLogic.h"
 #include "Die.h"
 int main() {
 

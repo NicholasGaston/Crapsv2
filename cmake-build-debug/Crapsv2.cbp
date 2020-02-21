@@ -88,10 +88,10 @@
 		<Unit filename="E:/Programs/CLionProjects/Crapsv2/Die.h">
 			<Option target="Crapsv2"/>
 		</Unit>
-		<Unit filename="E:/Programs/CLionProjects/Crapsv2/cmake-build-debug/GameLogic.cpp">
+		<Unit filename="E:/Programs/CLionProjects/Crapsv2/GameLogic.cpp">
 			<Option target="Crapsv2"/>
 		</Unit>
-		<Unit filename="E:/Programs/CLionProjects/Crapsv2/cmake-build-debug/GameLogic.h">
+		<Unit filename="E:/Programs/CLionProjects/Crapsv2/GameLogic.h">
 			<Option target="Crapsv2"/>
 		</Unit>
 		<Unit filename="E:/Programs/CLionProjects/Crapsv2/main.cpp">

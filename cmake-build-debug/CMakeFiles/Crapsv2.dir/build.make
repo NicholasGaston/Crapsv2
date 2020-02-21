@@ -83,17 +83,17 @@ CMakeFiles/Crapsv2.dir/Die.cpp.s: cmake_force
 	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\Programs\CLionProjects\Crapsv2\Die.cpp -o CMakeFiles\Crapsv2.dir\Die.cpp.s
 
 CMakeFiles/Crapsv2.dir/GameLogic.cpp.obj: CMakeFiles/Crapsv2.dir/flags.make
-CMakeFiles/Crapsv2.dir/GameLogic.cpp.obj: GameLogic.cpp
+CMakeFiles/Crapsv2.dir/GameLogic.cpp.obj: ../GameLogic.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\Programs\CLionProjects\Crapsv2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Crapsv2.dir/GameLogic.cpp.obj"
-	C:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Crapsv2.dir\GameLogic.cpp.obj -c E:\Programs\CLionProjects\Crapsv2\cmake-build-debug\GameLogic.cpp
+	C:\TDM-GCC-64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Crapsv2.dir\GameLogic.cpp.obj -c E:\Programs\CLionProjects\Crapsv2\GameLogic.cpp
 
 CMakeFiles/Crapsv2.dir/GameLogic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Crapsv2.dir/GameLogic.cpp.i"
-	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\Programs\CLionProjects\Crapsv2\cmake-build-debug\GameLogic.cpp > CMakeFiles\Crapsv2.dir\GameLogic.cpp.i
+	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\Programs\CLionProjects\Crapsv2\GameLogic.cpp > CMakeFiles\Crapsv2.dir\GameLogic.cpp.i
 
 CMakeFiles/Crapsv2.dir/GameLogic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Crapsv2.dir/GameLogic.cpp.s"
-	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\Programs\CLionProjects\Crapsv2\cmake-build-debug\GameLogic.cpp -o CMakeFiles\Crapsv2.dir\GameLogic.cpp.s
+	C:\TDM-GCC-64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\Programs\CLionProjects\Crapsv2\GameLogic.cpp -o CMakeFiles\Crapsv2.dir\GameLogic.cpp.s
 
 # Object files for target Crapsv2
 Crapsv2_OBJECTS = \
