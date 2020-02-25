@@ -6,14 +6,6 @@
 
 #IncludeRegexTransform: 
 
-E:/Programs/CLionProjects/Crapsv2/Die.cpp
-Die.h
-E:/Programs/CLionProjects/Crapsv2/Die.h
-cmath
--
-ctime
--
-
 E:/Programs/CLionProjects/Crapsv2/Die.h
 iostream
 -
@@ -23,18 +15,12 @@ Die.h
 E:/Programs/CLionProjects/Crapsv2/Die.h
 GameLogic.h
 E:/Programs/CLionProjects/Crapsv2/GameLogic.h
+cstring
+-
 
 E:/Programs/CLionProjects/Crapsv2/GameLogic.h
 iostream
 -
 string
 -
-
-E:/Programs/CLionProjects/Crapsv2/main.cpp
-iostream
--
-Die.h
-E:/Programs/CLionProjects/Crapsv2/Die.h
-GameLogic.h
-E:/Programs/CLionProjects/Crapsv2/GameLogic.h
 

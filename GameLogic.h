@@ -7,10 +7,12 @@
 
 #define CRAPSV2_GAMELOGIC_H
 
+
     int PlayersTurn(Die PlayersDie);
     void CheckWin(int rolledNumber, Die PlayersDie);
-    void SettleBet(int betAmount, std ::string nameOfPlayer);
+    void SettleBet(double playersBet, int rolledNumber);
     void CreatePlayerFile();
+    void setBet();
 
 
 #endif //CRAPSV2_GAMELOGIC_H

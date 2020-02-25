@@ -46,7 +46,7 @@ int Die :: roll()
 {
     value = ((rand() % numberOfSides + startingValue) + (rand() % numberOfSides + startingValue));
 
-    cout << value << endl;
+
     return  value;
 }
 void Die :: SetColor(string newColor)
