@@ -149,6 +149,33 @@ Die.cpp.s:
 	$(MAKE) -f CMakeFiles\Crapsv2.dir\build.make CMakeFiles/Crapsv2.dir/Die.cpp.s
 .PHONY : Die.cpp.s
 
+FileSystem.obj: FileSystem.cpp.obj
+
+.PHONY : FileSystem.obj
+
+# target to build an object file
+FileSystem.cpp.obj:
+	$(MAKE) -f CMakeFiles\Crapsv2.dir\build.make CMakeFiles/Crapsv2.dir/FileSystem.cpp.obj
+.PHONY : FileSystem.cpp.obj
+
+FileSystem.i: FileSystem.cpp.i
+
+.PHONY : FileSystem.i
+
+# target to preprocess a source file
+FileSystem.cpp.i:
+	$(MAKE) -f CMakeFiles\Crapsv2.dir\build.make CMakeFiles/Crapsv2.dir/FileSystem.cpp.i
+.PHONY : FileSystem.cpp.i
+
+FileSystem.s: FileSystem.cpp.s
+
+.PHONY : FileSystem.s
+
+# target to generate assembly for a file
+FileSystem.cpp.s:
+	$(MAKE) -f CMakeFiles\Crapsv2.dir\build.make CMakeFiles/Crapsv2.dir/FileSystem.cpp.s
+.PHONY : FileSystem.cpp.s
+
 GameLogic.obj: GameLogic.cpp.obj
 
 .PHONY : GameLogic.obj
@@ -215,6 +242,9 @@ help:
 	@echo ... Die.obj
 	@echo ... Die.i
 	@echo ... Die.s
+	@echo ... FileSystem.obj
+	@echo ... FileSystem.i
+	@echo ... FileSystem.s
 	@echo ... GameLogic.obj
 	@echo ... GameLogic.i
 	@echo ... GameLogic.s
